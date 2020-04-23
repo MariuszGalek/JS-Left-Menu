@@ -1,3 +1,3 @@
-JavaScript project - application for Fahrenheit (°F) to Celsius (°C) conversion (or vice versa).
-https://mariuszgalek.github.io/Temperature-conversion/
+Simple JavaScript project - using JvaScript for "hamburger menu".
+https://mariuszgalek.github.io/JS-Left-Menu/index.html
 
